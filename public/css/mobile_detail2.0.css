@@ -1,0 +1,72 @@
+body{font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","\5FAE\8F6F\96C5\9ED1",Arial,sans-serif;font-size: 0.3rem;color: #333333;overflow:-Scroll;overflow-x:hidden;background: #FFFFFF;}
+*{margin: 0;padding: 0;max-height: 100000px;box-sizing: border-box;}
+a{text-decoration: none;-webkit-tap-highlight-color:transparent;}
+.clear{clear: both;}
+li{list-style: none;}
+i{font-style: normal;}
+.mar{margin: 0 auto;display: block;}
+html{height: 100%;}
+textarea {  -webkit-appearance: none;}
+.m_t20{margin-top: 0.2rem;}
+.m_t40{margin-top: 0.4rem;}
+.m_t30{margin-top: 0.3rem;}
+.left{float: left;}
+.right{float: right;}
+.h_50{width: 100%;height: 0.5rem;}
+.c_f{color: #FFFFFF;}
+.c_3{color: #333333;}
+.f_60{font-size: 0.6rem;font-weight: bold;line-height: 1rem}
+.f_48{font-size: 0.48rem;font-weight: bold;}
+.f_30{font-size: 0.3rem;line-height: 0.55rem;}
+.p_80{padding: 0.8rem 0;}
+.bg_f7{background: #f7f7f7;}
+.center{text-align: center;}
+.w_720{width: 7.2rem;margin: 0 auto;text-align: center}
+
+
+
+.index_p1{font-size: 0.36rem;font-weight: bold;text-align: center;padding-top: 0.4rem;line-height: 0.64rem;}
+.video_play{color: #028dff;font-size: 0.3rem;background: url(/image/mobile2.0/play.png)no-repeat left center;background-size: 0.3rem;height: 0.6rem;line-height: 0.6rem;padding-left: 0.4rem;display: block;width: 2.8rem;}
+.pre_a{width: 3.4rem;height: 0.84rem;line-height: 0.84rem;background: url(/image/mobile2.0/pre.png)no-repeat right 0.7rem center #028dff;color: #fff;font-size: 0.36rem;padding-left: 0.8rem;border-radius: 10px;display: block;margin: 0.6rem auto 0.2rem auto;background-size: 0.12rem;}
+.index_p2{font-size: 0.24rem;color: #666;line-height: 0.42rem;padding: 0 0.3rem;}
+.index_img{display: block;width: 100%;margin-top: 0.4rem;}
+.index_div1{width: 6.6rem;margin: 0 auto;display: flex;border-bottom: 1px solid #999;text-align: center;font-size: 0.3rem;color: #7d7d7d;justify-content:space-around;margin-top: 0.3rem;}
+.index_div1 span{width: 20%;height: 0.6rem;}
+.index_span1{color: #028dff;border-bottom: 0.06rem solid #028dff;}
+.index_img1{display: block;width: 70%;margin: 0.2rem auto 0.4rem auto;}
+.index_table{text-align: center;}
+.index_tr1{font-size: 0.22rem;color: #028dff;}
+.index_tr2{font-size: 0.18rem;color: #666;}
+.index_table tr td{width: 240px;}
+.index_div2_1{position: relative;height: 7rem;}
+.index_img2{display: block;width: 100%;position: absolute;left: 0;bottom: 0;}
+.p_t40{padding-top: 0.4rem;}
+.p_t30{padding-top: 0.3rem;}
+.index_p3{font-size: 0.3rem;padding-left: 0.3rem;}
+.m_t10{margin-top: 0.1rem;}
+.line{display: block;width: 6.6rem;margin: 0.4rem auto 0 auto;border-bottom: 1px solid #999999;}
+.line1{display: block;width: 6.6rem;margin: 0.3rem auto 0 auto;border-bottom: 1px solid #999999;}
+
+.index_div3{height: 2.4rem;padding-left: 0.45rem;overflow: hidden;}
+.tx{float: left;width: 1.25rem;margin-top: 0.4rem;}
+.bg{width: 100%;height: 100%;top: 0;left: 0;background: rgba(0, 0, 0, 0.7);position: fixed;z-index: 999;}
+.bg video{width: 100%;margin: 100px auto;outline: none;}
+.video{width: 100%;margin: 100px auto;position: relative;}
+.x{position: absolute;top: -0.6rem;right: 0.2rem;;width: 0.4rem;cursor: pointer;}
+.none{display: none;}
+
+.privacy_p1{font-size: 0.24rem;margin-top: 0.3rem;line-height: 0.42rem;padding: 0 0.3rem;}
+.privacy_span1{color: #028dff;}
+.privacy_p2{font-weight: bold;font-size: 0.24rem;margin-top: 0.3rem;line-height: 0.42rem;padding: 0 0.3rem;}
+.dian{background: url(/image/mobile2.0/dian.png)no-repeat left top 0.17rem;padding-left: 0.2rem;display: block;background-size: 0.1rem;}
+.privacy_table{width: 100%;margin-top: 50px;border-collapse: collapse;font-size: 26px;line-height: 42px;}
+.privacy_table td{padding: 15px;}
+.t2em{display: block;padding-left: 20px;}
+.privacy_p3{height: 0.66rem;line-height: 0.66rem;color: #fff;font-weight: bold;background: #666666;text-align: center;font-size: 0.26rem;}
+
+.icon{display: flex;justify-content:space-between;margin-top: 0.6rem;align-items:flex-end;padding: 0 0.3rem;}
+.icon img{width: 100%;}
+.talk{display: flex;padding: 0.5rem 0.3rem;margin-top: 0.5rem;box-shadow:0 1px  10px #999;align-items:center;background: #f7f7f7;}
+.photo img{width: 1.6rem;display: block;}
+.photo span{font-size: 0.24rem;color: #666;text-align: center;display: block;margin-top: 0.2rem;}
+.talk p{font-size: 0.24rem;color: #666;line-height: 0.42rem;}

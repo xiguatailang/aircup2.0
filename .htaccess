@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^aircup.site.com$ [NC]
+RewriteRule (.*) http://aircup.site.com/$1 [L,R=301]
+</IfModule>
